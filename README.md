@@ -6,7 +6,7 @@
 
 
 
-!\[Air Drawing](assets/air\_drawing\_demo.png.png)
+!\[Air Drawing](assets/air\_drawing\_demo.png)
 
 
 
