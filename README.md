@@ -1,28 +1,34 @@
-\## Project Demo
+# AI Air Sketch to Image Generator
 
+## Overview
 
+AI Air Sketch to Image Generator is a Computer Vision and Generative AI project that allows users to draw in the air using hand gestures and generate AI-powered images.
 
-\### Air Drawing
+## Project Demo
 
+### Air Drawing
 
+![Air Drawing](assets/air_drawing_demo.png)
 
-!\[Air Drawing](assets/air\_drawing\_demo.png)
+### Saved Sketch
 
+![Sketch](assets/sketch.png)
 
+### AI Generated Image
 
-\### Saved Sketch
+![Generated Image](assets/result.png)
 
+## Technologies Used
 
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+- Stable Diffusion
+- Hugging Face
+- Computer Vision
+- Generative AI
 
-!\[Sketch](assets/sketch.png)
+## Author
 
-
-
-\### AI Generated Image
-
-
-
-!\[Generated Image](assets/result.png)
-
-
-
+Atif Md
