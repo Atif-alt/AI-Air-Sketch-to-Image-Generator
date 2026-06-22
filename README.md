@@ -124,27 +124,5 @@ python image\_generator.py
 
 Atif Md
 
-\## Project Demo
 
-
-
-\### Air Drawing
-
-
-
-(!\[Generated Image](assets/result.png))
-
-\### Saved Sketch
-
-
-
-"C:\\Users\\mdati\\OneDrive\\Desktop\\AI-Air-Sketch-to-Image-Generator\\sketches\\sketch.png"
-
-
-
-\### AI Generated Image
-
-
-
-"C:\\Users\\mdati\\OneDrive\\Desktop\\AI-Air-Sketch-to-Image-Generator\\outputs\\result.png"
 
